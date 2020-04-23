@@ -1,4 +1,4 @@
 public class Company
 {
-	private ArrayList<Product> products;
+	private TreeSet<Product> products;
 }
